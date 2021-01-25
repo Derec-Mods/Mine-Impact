@@ -1,0 +1,17 @@
+{
+  "_fv": 15,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Dendro",
+    "type": "WEAPON",
+    "rarity": "VERY_RARE",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [],
+    "isTreasureEnchantment": true,
+    "isCurse": true,
+    "isAllowedOnBooks": true
+  }
+}

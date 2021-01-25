@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft_impact:block/iron_chunk_ore"
+    },
+    "facing=east": {
+      "model": "minecraft_impact:block/iron_chunk_ore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecraft_impact:block/iron_chunk_ore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft_impact:block/iron_chunk_ore",
+      "y": 270
+    }
+  }
+}

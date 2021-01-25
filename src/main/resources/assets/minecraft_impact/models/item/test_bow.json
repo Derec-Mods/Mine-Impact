@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft_impact:custom/amosbow",
+  "textures": {
+    "0": "minecraft_impact:blocks/amos_bow",
+    "missing": "minecraft_impact:blocks/",
+    "particle": "minecraft_impact:items/amos_bow"
+  }
+}

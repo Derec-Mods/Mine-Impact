@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "potion",
+  "definition": {
+    "name": "Hydro",
+    "effectName": "Hydro",
+    "icon": "hydroparticle.png",
+    "color": {
+      "value": -16750900,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false,
+    "onActiveTick": {
+      "name": "HydroParticles"
+    }
+  }
+}

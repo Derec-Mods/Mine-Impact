@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "potion",
+  "definition": {
+    "name": "Geo",
+    "effectName": "Electro",
+    "icon": "geoparticle.png",
+    "color": {
+      "value": -3368704,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false,
+    "onActiveTick": {
+      "name": "GeoParticles"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft_impact:custom/harp",
+  "textures": {
+    "0": "minecraft_impact:blocks/skywardharp",
+    "1": "minecraft_impact:blocks/skywardharp_-_copy",
+    "particle": "minecraft_impact:items/skywardharp"
+  }
+}

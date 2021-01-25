@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "skywardharp",
+        "1": "skywardharp_-_copy"
+      },
+      "name": "default"
+    }
+  }
+}

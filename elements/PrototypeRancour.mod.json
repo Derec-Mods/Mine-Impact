@@ -1,0 +1,28 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "prototyperancour",
+    "customModelName": "Normal",
+    "name": "Prototype Rancour",
+    "specialInfo": [
+      "§oAn ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter."
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 2.0,
+    "enchantability": 10,
+    "damageVsEntity": 5.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

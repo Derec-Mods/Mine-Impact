@@ -1,0 +1,19 @@
+{
+  "_fv": 15,
+  "_type": "potion",
+  "definition": {
+    "name": "Plant",
+    "effectName": "Dendro",
+    "icon": "dendroparticle.png",
+    "color": {
+      "value": -16738048,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false
+  }
+}

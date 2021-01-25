@@ -1,0 +1,22 @@
+{
+  "_fv": 15,
+  "_type": "potion",
+  "definition": {
+    "name": "Electro-Charged",
+    "effectName": "Electro-Charged",
+    "icon": "electroparticle.png",
+    "color": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false,
+    "onActiveTick": {
+      "name": "ElectroChargedDamage"
+    }
+  }
+}

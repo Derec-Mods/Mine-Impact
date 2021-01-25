@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft_impact:items/white_tassel_-_copy"
+  }
+}

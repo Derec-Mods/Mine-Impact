@@ -1,0 +1,17 @@
+{
+  "_fv": 15,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Anemo Enchant",
+    "type": "WEAPON",
+    "rarity": "UNCOMMON",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

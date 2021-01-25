@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft_impact:prototype_aminus"
+  },
+  "addition": {
+    "item": "minecraft_impact:white_iron_chunk"
+  },
+  "result": {
+    "item": "minecraft_impact:ascended_prototype_aminus"
+  }
+}

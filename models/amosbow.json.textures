@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "amos_bow",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
